@@ -8,9 +8,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m working as Open Source Contibuter<br>- 📚 I'm currently learning Web Development<br>- ⚡ </p>
-👨‍💻 All of my projects are available at [hitesh.financlo.com](hitesh.financlo.com)
-
+<p align="left">- 🔭 I’m working as Open Source Contibuter<br>- 📚 I'm currently learning Web Development<br>- 👨‍💻 All of my projects are available at https://hitesh.financlo.com</p>
 
 ###
 
@@ -80,7 +78,3 @@
 
 ###
 
-
-
-
-###
